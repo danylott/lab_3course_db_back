@@ -1,2 +1,4 @@
 .idea
 venv
+
+trainsystem/__pycache__
