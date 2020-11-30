@@ -2,3 +2,4 @@
 venv
 
 trainsystem/__pycache__
+*/__pycache__
